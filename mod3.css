@@ -1,0 +1,38 @@
+body{
+    background-color: sandybrown;
+}
+#header-nav{
+    background-color:beige;
+    border:0; 
+}
+#nav1{
+    border: 1px solid black;
+}
+
+
+
+
+#p1{
+    background-color: beige;
+margin: 10px;
+    border: 1px solid beige;
+   padding: 0 10px 0 10px; 
+}
+@media(max-width:767px){
+    
+#p1{
+margin: 30px;
+     border: 1px solid beige;
+    padding: 0 15px 0 15px;
+}
+    #navlink1, #navlink2, #navlink3{
+    text-align: center;
+    border: 1px solid black;
+}
+    #navlink1{
+        margin-top: 5px;
+    }
+    #h2{
+        padding-top: 20px;
+    }
+}
