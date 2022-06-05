@@ -19,11 +19,6 @@ margin: 10px;
    padding: 0 10px 0 10px; 
 }
 
-
-
- #navlink1, #navlink2, #navlink3{
-     border:none;
-    
 @media(max-width:767px){    
 #p1{
 margin: 30px;
