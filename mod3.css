@@ -29,8 +29,7 @@ margin: 10px;
     }
    
     
-@media(max-width:767px){
-    
+@media(max-width:767px){    
 #p1{
 margin: 30px;
      border: 1px solid beige;
@@ -39,7 +38,6 @@ margin: 30px;
     #navlink1, #navlink2, #navlink3{
     text-align: center;
         border:1px solid black;
-   
 }
     #navlink1{
         margin-top: 5px;
