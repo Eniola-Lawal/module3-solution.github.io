@@ -21,7 +21,8 @@ margin: 10px;
 
 
 
-   
+ #navlink1, #navlink2, #navlink3{
+     border:none;
     
 @media(max-width:767px){    
 #p1{
@@ -31,6 +32,7 @@ margin: 30px;
 }
     #navlink1, #navlink2, #navlink3{
     text-align: center;
+      border:1px solid black;
     
 }
     #h2{
