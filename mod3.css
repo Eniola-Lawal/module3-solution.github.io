@@ -18,6 +18,17 @@ margin: 10px;
     border: 1px solid beige;
    padding: 0 10px 0 10px; 
 }
+
+
+@media(min-width:768px){
+     #navlink1, #navlink2, #navlink3{
+        border:none;
+    }
+    #navlink1{
+        margin-top:0;
+    }
+   
+    
 @media(max-width:767px){
     
 #p1{
@@ -27,6 +38,7 @@ margin: 30px;
 }
     #navlink1, #navlink2, #navlink3{
     text-align: center;
+        border:1px solid black;
    
 }
     #navlink1{
