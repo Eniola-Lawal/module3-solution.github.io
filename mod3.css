@@ -20,13 +20,7 @@ margin: 10px;
 }
 
 
-@media(min-width:768px) and (max-width:1200px){
-     #navlink1, #navlink2, #navlink3{
-        border:none;
-    }
-    #navlink1{
-        margin-top:0;
-    }
+
    
     
 @media(max-width:767px){    
