@@ -31,11 +31,8 @@ margin: 30px;
 }
     #navlink1, #navlink2, #navlink3{
     text-align: center;
-        border:1px solid black;
+    
 }
-    #navlink1{
-        margin-top: 5px;
-    }
     #h2{
         padding-top: 20px;
     }
