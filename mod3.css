@@ -18,7 +18,7 @@ margin: 10px;
     border: 1px solid beige;
    padding: 0 10px 0 10px; 
 }
-@media(max-width:767px){
+@media(max-width:768px){
     
 #p1{
 margin: 30px;
